@@ -1,0 +1,82 @@
+[
+  {
+    "Font": "Noto Sans Buginese",
+    "Font URL": "https://dl.dropboxusercontent.com/s/0wr2iy4kgbifkfc/NotoSansBuginese-Regular.ttf?dl=0",
+    "Language": "Buginese"
+  },
+  {
+    "Font": "Noto Sans Buginese",
+    "Font URL": "https://dl.dropboxusercontent.com/s/0wr2iy4kgbifkfc/NotoSansBuginese-Regular.ttf?dl=0",
+    "Language": "Makassarese"
+  },
+  {
+    "Font": "Noto Sans Coptic",
+    "Font URL": "https://dl.dropboxusercontent.com/s/b0yuwmjhph5px75/NotoSansCoptic-Regular.ttf?dl=0",
+    "Language": "Coptic"
+  },
+  {
+    "Font": "Noto Sans Limbu",
+    "Font URL": "https://dl.dropboxusercontent.com/s/8t5c4upmcfxu8b0/NotoSansLimbu-Regular.ttf?dl=0",
+    "Language": "Limbu"
+  },
+  {
+    "Font": "Noto Sans Myanmar",
+    "Font URL": "https://dl.dropboxusercontent.com/s/l7ar9qxxd0o0g1a/NotoSansMyanmar-Regular.ttf?dl=0",
+    "Language": "Shan"
+  },
+  {
+    "Font": "Noto Sans NKo",
+    "Font URL": "https://dl.dropboxusercontent.com/s/fpan055uba7ipe4/NotoSansNKo-Regular.ttf?dl=0",
+    "Language": "Mandinka"
+  },
+  {
+    "Font": "Noto Sans Syloti Nagri",
+    "Font URL": "https://dl.dropboxusercontent.com/s/ox9o27x5jjihz00/NotoSansSylotiNagri-Regular.ttf?dl=0",
+    "Language": "Sylheti"
+  },
+  {
+    "Font": "Noto Sans Syriac Estrangala",
+    "Font URL": "https://dl.dropboxusercontent.com/s/foh9sz3ire7n9v8/NotoSansSyriacEstrangela-Regular.ttf?dl=0",
+    "Language": "Neo-Aramaic"
+  },
+  {
+    "Font": "Noto Sans Syriac Estrangala",
+    "Font URL": "https://dl.dropboxusercontent.com/s/foh9sz3ire7n9v8/NotoSansSyriacEstrangela-Regular.ttf?dl=1",
+    "Language": "Neo-Aramaic"
+  },
+  {
+    "Font": "Noto Sans Syriac Estrangala",
+    "Font URL": "https://dl.dropboxusercontent.com/s/foh9sz3ire7n9v8/NotoSansSyriacEstrangela-Regular.ttf?dl=0",
+    "Language": "Neo-Aramaic"
+  },
+  {
+    "Font": "Noto Sans Thaana",
+    "Font URL": "https://dl.dropboxusercontent.com/s/bj7gcnt1bdg2o7s/NotoSansThaana-Regular.ttf?dl=0",
+    "Language": "Dhivehi"
+  },
+  {
+    "Font": "Noto Sans Tifinagh",
+    "Font URL": "https://dl.dropboxusercontent.com/s/l1mpj935sw736in/NotoSansTifinagh-Regular.ttf?dl=0",
+    "Language": "Tarifit"
+  },
+  {
+    "Font": "Noto Sans Tifinagh",
+    "Font URL": "https://dl.dropboxusercontent.com/s/l1mpj935sw736in/NotoSansTifinagh-Regular.ttf?dl=1",
+    "Language": "Tashelhyt"
+  },
+  {
+    "Font": "Noto Sans Tifinagh",
+    "Font URL": "https://dl.dropboxusercontent.com/s/l1mpj935sw736in/NotoSansTifinagh-Regular.ttf?dl=1",
+    "Language": "Tuareg"
+  },
+  {
+    "Font": "Noto Sans Tifinagh",
+    "Font URL": "https://dl.dropboxusercontent.com/s/l1mpj935sw736in/NotoSansTifinagh-Regular.ttf?dl=1",
+    "Language": "Zuwara"
+  },
+  {
+    "Font": "Noto Sans Vai",
+    "Font URL": "https://dl.dropboxusercontent.com/s/d1yh2f8seympe6e/NotoSansVai-Regular.ttf?dl=0",
+    "Language": "Vai"
+  }
+]
