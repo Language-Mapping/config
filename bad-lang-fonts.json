@@ -79,4 +79,19 @@
     "Font URL": "https://dl.dropboxusercontent.com/s/d1yh2f8seympe6e/NotoSansVai-Regular.ttf?dl=0",
     "Language": "Vai"
   }
+    {
+    "Font": "Noto Sans Ol Chiki",
+    "Font URL": "https://www.dropbox.com/s/nbvyllk4o97d5ad/NotoSansOlChiki-Regular.ttf?dl=0",
+    "Language": "Santali"
+  }
+    {
+    "Font": "Noto Sans Sinhala",
+    "Font URL": "https://www.dropbox.com/s/su2azlk3qbirhzi/NotoSansSinhala-Regular.ttf?dl=0",
+    "Language": "Sinhalese"
+  }
+    {
+    "Font": "Noto Sans Meetei Mayek",
+    "Font URL": "https://www.dropbox.com/s/b50srixzxv48fct/NotoSansMeeteiMayek-Regular.ttf?dl=0",
+    "Language": "Meithei"
+  }
 ]
